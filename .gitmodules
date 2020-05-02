@@ -1,0 +1,4 @@
+[submodule "dttec"]
+	path = dttec
+	url = git@git.vauxoo.com:vauxoo/dttec.git
+	branch = 12.0
