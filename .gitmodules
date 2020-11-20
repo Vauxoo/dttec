@@ -22,3 +22,7 @@
 	path = account-invoicing
 	url = git@github.com:Vauxoo/account-invoicing.git
 	branch = 12.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = git@github.com:Vauxoo/stock-logistics-workflow.git
+	branch = 12.0
